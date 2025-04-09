@@ -1,0 +1,22 @@
+{
+  "name": "jeisson",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleuma/quintolunes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleuma/quintolunes/issues"
+  },
+  "homepage": "https://github.com/eleuma/quintolunes#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
